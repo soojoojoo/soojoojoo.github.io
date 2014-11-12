@@ -8,3 +8,11 @@ h2 {
   color: #F2BBE1;
   text-allign : center;
 }
+img {
+  text-allign : center;
+}
+p {
+  font-size: 50 px;
+  color:black;
+  text-allign : center;
+}
